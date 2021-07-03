@@ -1,6 +1,6 @@
 # Hey there! 🎉
 
-My name is Stuart Adams. I am a Software Engineer at Codeplay Software.
+My name is Stuart Adams.
 
 You can find me at:
 
